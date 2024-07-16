@@ -257,7 +257,7 @@ h6 {
 .about-btn {
 	color: #ffffff;
 	padding: 10px 40px;
-	background: #f7f317;
+	background: hsla(251, 94%, 21%, 0.884);
 	border: 2px solid #ffffff;
 	border-radius: 7px;
 	margin-top: 30px;
